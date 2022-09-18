@@ -9,6 +9,28 @@ body {
 
 }
 
+.table-bordered {
+    border: 2px black;
+}
+@font-face {
+    font-family: "subTitulo";
+    src: url(../font/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family:"textoDbz" ;
+    src: url(../font/Louis\ George\ Cafe\ Bold.ttf);
+}
+
+.h2 {
+    font-family: "textoDbz";
+    font-size: medium;
+    
+}
+.h3 {
+    font-family: "subTitulo";
+
+}
 
 
 #main {
