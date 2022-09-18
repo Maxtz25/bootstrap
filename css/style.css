@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #8fd0f9;
+}
+
+#header {
+    width: 10vw;
+
+}
+
+
+
+#main {
+    width: 80vw;
+
+}
+
+#footer {
+    width: 10vw;
+
+}
+
+.carousel-inner {
+    width: auto;
+    height: auto;
+}
+
