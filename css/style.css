@@ -33,12 +33,18 @@ body {
 }
 
 
+
 #main {
     height: 80vh;
 
 }
- .texto {
-    overflow: hidden;
+
+#main2 {
+    height: 120vh;
+}
+ 
+ .carousel-item {
+    margin-left: 200px;
  }
 
 #footer {
